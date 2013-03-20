@@ -24,4 +24,4 @@ Text Domain: attitude
 ###About attitude_wyvernbai###
 
 I modified attitude. Here is the screenshot of attitude_wvyernbai:
-![image](https://dl.dropbox.com/u/108811466/attitude_wyvernbai.png)
+![image](https://dl.dropbox.com/u/108811466/attitude.png)
