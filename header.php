@@ -46,14 +46,14 @@
 		wp_head();
 	?>
 
-  <?php
-    $u_agent = $_SERVER['HTTP_USER_AGENT'];
-    $ub = '';
-    if(preg_match('/MSIE/i',$u_agent))
-    {?>
-        <script>alert("If you use IE, You can see shit!")</script>
-    <?php }
-?>
+    <script>
+    var userAgent = navigator.userAgent.toLowerCase();
+    // Test if the browser is IE and check the version number is lower than 9
+    if (/msie/.test(userAgent) && 
+      parseFloat((userAgent.match(/.*(?:rv|ie)[\/: ](.+?)([ \);]|$)/) || [])[1]) < 9) {
+        alert("If you use IE, you can see SHIT.");
+      }
+    </script>
 </head>
 
 <body <?php body_class(); ?>>
