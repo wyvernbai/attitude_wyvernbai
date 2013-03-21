@@ -64,7 +64,7 @@ embed, iframe, object {
 ----------------------------------------------- */
 body, input, textarea {
 	color: #777;
-	font: 13px 'PT Sans', sans-serif;
+	font: 13px 'PT Sans', "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", Arial, sans-serif;
 	line-height: 20px;
 	word-wrap: break-word;
 }
@@ -88,7 +88,7 @@ body {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
 	font-weight: normal;
-	font-family: 'Philosopher', sans-serif;
+	font-family: 'Philosopher',"Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", Arial, sans-serif;
 	color: #555;
 }
 h1 {
@@ -181,7 +181,7 @@ pre {
 	padding: 20px;
 }
 pre, code, kbd {
-	font-family:"Courier 10 Pitch",Courier,monospace;
+	font-family:"Courier 10 Pitch",Courier,monospace,"Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", Arial, sans-serif;
 	font-size: 14px;
 	line-height: 19px;
 	background-color: #F9F9F9;
@@ -231,7 +231,7 @@ blockquote em, blockquote i, blockquote cite {
 }
 blockquote cite {
 	color: #666;
-	font: 12px "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font: 12px "Helvetica Neue", Helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", Arial, sans-serif;
 	font-weight: 300;
 	letter-spacing: 0.05em;
 	text-transform: uppercase;
@@ -553,7 +553,7 @@ a.readmore:active, a.more-link:active {
 	color: rgb(56,178,250);
 }
 #site-description {
-	font: 13px 'PT Sans', sans-serif;
+	font: 13px 'PT Sans',"Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", Arial, sans-serif;
 	line-height: 20px;
 	color: #777;
 }
@@ -793,7 +793,7 @@ a.readmore:active, a.more-link:active {
 
 /* Slogan */
 .slogan-wrap {	
-	font-family: 'Philosopher', sans-serif;
+	font-family: 'Philosopher',"Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", Arial, sans-serif;
 	background-color: rgb(56,178,250);	
 	padding: 24px 0;
 	margin-bottom: 4px;	
@@ -806,7 +806,7 @@ a.readmore:active, a.more-link:active {
 	float: left;
 }
 .slogan-wrap .slogan span {
-	font: 13px 'PT Sans', sans-serif;
+	font: 13px 'PT Sans', "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", Arial, sans-serif;
 	line-height: 20px;
 	display: block;
 	padding-top: 5px;
@@ -907,7 +907,7 @@ a.readmore:active, a.more-link:active {
 	color: #fff;
 }
 .featured-text .featured-title {
-	font: 24px 'Philosopher',sans-serif;
+	font: 24px 'Philosopher',"Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", Arial, sans-serif;
 	line-height: 30px;
 	padding: 10px 20px;
 	background: rgb(56,178,250);
@@ -1099,7 +1099,7 @@ a.readmore:active, a.more-link:active {
 .entry-header {
 }
 .entry-title {
-	font: 24px 'Philosopher', sans-serif;
+	font: 24px 'Philosopher',"Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", Arial, sans-serif;
 	line-height: 30px;
 }
 .entry-title,
@@ -2143,7 +2143,7 @@ ul.default-wp-page li a:active {
 		background: url(images/responsive-menu-bg.png) right center no-repeat;
 		background-size: 28px 22px;
 		border: 0 none;
-		font: 14px 'PT Sans', sans-serif;
+		font: 14px 'PT Sans',"Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", Arial, sans-serif;
 		text-transform: uppercase;
 		color: #555;
 		-webkit-border-radius: 0px;
